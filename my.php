@@ -1,6 +1,6 @@
 <?php 
 
-$r == 'devnath';
+$r == 'raju';
 echo $r;
 
 
